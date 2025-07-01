@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (!question) return;
     appendMessage("user", question);
     input.value = "";
-    appendMessage("bot", "Thinking...");
+    appendMessage("bot", "");
 
     const body = { question, reportType };
 

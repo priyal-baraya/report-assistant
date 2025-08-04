@@ -1,12 +1,12 @@
-# Gemini Report Assistant 🧠📊
+# Gemini Report Assistant 
 
 An AI-powered chatbot built with Flask and Google Gemini to summarize internal reports (Trip, Target, Task) using natural language queries.
 
 ## Features
-- 🌐 Natural language interface
-- 📈 Integrates with Imprint internal APIs
-- 🧠 Uses Google Gemini (1.5 & 2.0 Flash) for LLM responses
-- 🧾 Summarizes trip logs, employee targets, and task performance
+-  Natural language interface
+-  Integrates with Imprint internal APIs
+-  Uses Google Gemini (1.5 & 2.0 Flash) for LLM responses
+-  Summarizes trip logs, employee targets, and task performance
 
 ## Tech Stack
 - Python, Flask
